@@ -52,7 +52,4 @@ Design Decisions
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ./LADR/document-formatting.rst
-| cells | * paragraphs    |
-| too   |                 |
-+-------+-----------------+
 
