@@ -51,4 +51,5 @@ Learn about python packages "typer", "rich", and "textual"
 Design Decisions
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-[/docs/LADR/document-formatting.rst]_
+./LADR/document-formatting.rst
+
