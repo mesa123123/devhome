@@ -21,35 +21,17 @@ Date Stamp (hh:mm dd/MM/yyyy)
 - Design Decisions (LADR #)
   - Write down the LADRs by number and link
 
+
 ----------------------------------------------------------------
 Timesheet Records
 ----------------------------------------------------------------
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-26/07/2023 2300
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-Progress Achieved
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-- 1.* (* -> a)
-- 1.5 ( a -> d )  
-
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-Activity Breakdown
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-found out a way to output to the screen and use optional vs. non-optional arguements and options, currently working on creating a way to determine what is needed to be done for the vairous options 
-
-
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-Lessons Learned
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-
-Learn about python packages "typer", "rich", and "textual"
-
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-Design Decisions
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-
-./LADR/document-formatting.rst
-
++------------------+---------------+-----------------------------------------+-----------------------------+--------------------------------+
+| Date             | Progress      | Comments                                | Lessons Learned             | Design Decisions               |
++==================+===============+=========================================+=============================+================================+
+| 2300 26/7/2023   | 1.* (* -> a), | found out a way to output to the screen | Learn about python packages | ./LADR/document-formatting.rst |
+|                  | 1.5 (a->d)    | and use optional vs. non-optional       | typer, rich & textual       |                                |
+|                  |               | arguements, currently working on a way  |                             |                                |
+|                  |               | to determine what is needed to be done  |                             |                                |
+|                  |               | for the various options                 |                             |                                |
++------------------+---------------+-----------------------------------------+-----------------------------+--------------------------------+
