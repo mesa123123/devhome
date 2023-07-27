@@ -8,19 +8,12 @@ The purpose of this document is to log time spent on the project, it will outlin
 Template
 ----------------------------------------------------------------
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Date Stamp (hh:mm dd/MM/yyyy)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-- Progress Achieved
-  - Whats changed in the roadmap?
-- Activity Breakdown
-  - More indepth description of progress achieved section
-- Lessons Learned
-  - What I will need to research
-- Design Decisions (LADR #)
-  - Write down the LADRs by number and link
-
++----------------------------+------------------------+----------------------------------------+--------------------------------+---------------------------------------------+
+| Date                       | Progress               | Comments                               | Lessons Learned                | Design Decisions                            |
++============================+========================+========================================+================================+=============================================+
+| format = HH:MM dd/mm/yyyy  | Any Roadmap.rst changes| in depth description of roadmap changes| anything I'll need to research | references to any ladrs that have been made |
+|                            | format #.#.# (s->s)    |                                        |                                |                                             |
++----------------------------+------------------------+----------------------------------------+--------------------------------+---------------------------------------------+
 
 ----------------------------------------------------------------
 Timesheet Records
